@@ -1,6 +1,10 @@
 
 
-BC-Go CarPool
+## BC-Go CarPool App Overview:
+
+ 
+
+![screenshot 207](https://user-images.githubusercontent.com/36718564/43487070-79cb993c-94e3-11e8-826f-f98a0f5ba9d1.png)
 
 
 Car pooling app for BootCamp Collegues using simple React Webpack Babel Starter Kit
@@ -14,9 +18,7 @@ https://github.com/jkasu/bc-carpool
 
 
 To run the app
-Install dependencies
-
-npm install
+## npm install dependencies list
 
 npm i babel-core babel-loader body-parser bootstrap bootstrap-timepicker cookie-parser css-loader date-utils 
 
@@ -39,9 +41,6 @@ $ node server.js
 
 Open the web browser to http://localhost:3000/
 
-## CarPool App Overview:
-
-![screenshot 207](https://user-images.githubusercontent.com/36718564/43487070-79cb993c-94e3-11e8-826f-f98a0f5ba9d1.png)
 
 ## Running Bc-Go App: node server.js
 ![screenshot 266](https://user-images.githubusercontent.com/36718564/43487147-ba4f700a-94e3-11e8-8fc5-03d7a3debc40.png)
