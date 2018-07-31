@@ -8,7 +8,7 @@ var App = React.createClass({
   render: function(){
     return(
       <div>
-      <nav className="navbar navbar-default navbar-fixed-top thola-header">
+      <nav className="navbar navbar-default navbar-fixed-top carpool-header">
         <div className="container-fluid">
           <div className="navbar-header">
             <button type="button" className="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
@@ -23,7 +23,7 @@ var App = React.createClass({
           </div>
 
           <div className="navbar-collapse collapse" id="bs-example-navbar-collapse-1">
-            <ul className="nav navbar-nav navbar-right thola-nav">
+            <ul className="nav navbar-nav navbar-right carpool-nav">
                 <li><IndexLink      to="/"           activeStyle={ACTIVE}>Home</IndexLink></li>
                 <li><Link      to="/search" className="search"      activeStyle={ACTIVE}>Search</Link></li>
                 <li><Link      to="/create" className="create"     activeStyle={ACTIVE}>Create</Link></li>

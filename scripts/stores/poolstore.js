@@ -197,9 +197,9 @@ var PoolStore = Reflux.createStore({
 				var emailPoolList = filteredPoolList[i];
 				var notification = {
 					email : emailPoolList.email,
-					subject: "Thola - Route Match",
+					subject: "carpool - Route Match",
 					from: "prabhur@thoughtworks.com",
-					html: '<div style="padding: 30px; width: 350px; height: 300px; background:#fecb00"><h3>Route Match from Thola</h3><h2>' + emailPoolList.name + '<h2><h4>From: ' + emailPoolList.originAddress + '</h4><h4>To: ' + emailPoolList.destinationAddress + '</h4><a href="mailto:'+ emailPoolList.email+'" style="background:#46afcd; padding: 10px; text-decoration: none">Contact</a><h5>'+emailPoolList.email+'</h5></div>'
+					html: '<div style="padding: 30px; width: 350px; height: 300px; background:#fecb00"><h3>Route Match from carpool</h3><h2>' + emailPoolList.name + '<h2><h4>From: ' + emailPoolList.originAddress + '</h4><h4>To: ' + emailPoolList.destinationAddress + '</h4><a href="mailto:'+ emailPoolList.email+'" style="background:#46afcd; padding: 10px; text-decoration: none">Contact</a><h5>'+emailPoolList.email+'</h5></div>'
 				};
 				notifications.push(notification);
 			}
@@ -213,9 +213,9 @@ var PoolStore = Reflux.createStore({
 		var request = {
 			email : email,
 			subject: "Bc-Go - Pool Request",
-			//subject: "Thola - Pool Request",
+			//subject: "carpool - Pool Request",
 			from: "prabhur@thoughtworks.com",
-			html: '<div style="padding: 30px; width: 350px; background:#fecb00"><h3>Pool Request from Thola: </h3><h4>'+this.user.name+'</h4><h4>email: '+this.user.email+'</h4><h5>likes to pool with you on this route.</h5><h2>' + name + '<h2><h4>From: ' + originAddress + '</h4><h4>To: ' + destinationAddress + '</h4></div>'
+			html: '<div style="padding: 30px; width: 350px; background:#fecb00"><h3>Pool Request from carpool: </h3><h4>'+this.user.name+'</h4><h4>email: '+this.user.email+'</h4><h5>likes to pool with you on this route.</h5><h2>' + name + '<h2><h4>From: ' + originAddress + '</h4><h4>To: ' + destinationAddress + '</h4></div>'
 		};
 		requests.push(request);
 		this.postNotification(requests, true);

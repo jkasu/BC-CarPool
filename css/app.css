@@ -53,26 +53,26 @@ h1, h2, h3, h4, h5, h6, label, .user-name a{
 .navbar-collapse{
 	padding: 0;
 }
-.thola-header{
+.carpool-header{
     color: #fff;
 }
-.thola-header a, .thola-header a:hover{
+.carpool-header a, .carpool-header a:hover{
 	background-color: rgba(254,203,0,1) !important;
 	padding: 5px 10px !important;
 	font-size: 11px;
 }
-.thola-header a.logout{
+.carpool-header a.logout{
 	background: #333 !important;
 	color: #666 !important;
 }
-.thola-nav{
+.carpool-nav{
 	padding: 0;
 	list-style: none;
 }
-.thola-nav li{
+.carpool-nav li{
 	margin-right: 10px;
 }
-.thola-nav li:last-child{
+.carpool-nav li:last-child{
 	margin-right: 0px;
 }
 .nav-pills {
@@ -122,7 +122,7 @@ h1, h2, h3, h4, h5, h6, label, .user-name a{
 }
 
 /********* Forms ***********/
-.thola-form {
+.carpool-form {
 	position: relative;
 	padding: 20px;
 	border-radius: 5px;
@@ -130,14 +130,14 @@ h1, h2, h3, h4, h5, h6, label, .user-name a{
 	background: rgba(255, 255, 255, 0.2);
 	margin-top: 20px;
 }
-.thola-form label{
+.carpool-form label{
 	margin-right:10px;
 	font-weight: normal;
 }
-.thola-form .time-wrapper{
+.carpool-form .time-wrapper{
 	max-width: 106px;
 }
-.thola-form .submit-button {
+.carpool-form .submit-button {
     max-width: 70px;
 }
 .create-form .search-elements .auto-complete{
@@ -410,7 +410,7 @@ a, a:hover, a:focus{
 	.container{
 		padding: 0;
 	}
-	.thola-form .btn{
+	.carpool-form .btn{
 		width: 100%;
 	}
 	.home-page{
@@ -425,7 +425,7 @@ a, a:hover, a:focus{
 	.search-elements{
 		display: block;
 	}
-	.thola-form .submit-button {
+	.carpool-form .submit-button {
 		max-width: 100%;
 	}
 	.search-form .auto-complete{
@@ -451,7 +451,7 @@ a, a:hover, a:focus{
 		height: 100%;
 	}
 
-	.thola-nav li{
+	.carpool-nav li{
 		margin-right: 0;
 	}
 	.navbar-nav{

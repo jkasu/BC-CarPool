@@ -77,7 +77,7 @@ var CreateForm = React.createClass({
 		var {route} = this.props.location.query;
 		return(
 			<div className="create-container">
-				<form className="thola-form create-form" onSubmit={this.handleSubmit}>
+				<form className="carpool-form create-form" onSubmit={this.handleSubmit}>
 					<div className="create-options">
 						<div className="pool-options">
 							<label><input type="radio" name="poolOption" ref="provider" defaultChecked={true}  /> Own a Car</label>

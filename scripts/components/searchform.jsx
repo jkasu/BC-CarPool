@@ -49,7 +49,7 @@ var SearchForm = React.createClass({
 
 	render: function(){
 		return(
-			<form className="thola-form search-form">
+			<form className="carpool-form search-form">
 				<div className="search-elements">
 					<AutoComplete 
 						name={Constants.origin} 
