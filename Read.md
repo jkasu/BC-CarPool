@@ -80,4 +80,4 @@ Open the web browser to http://localhost:3000/
 
 
 
-Please contribute to the project if you think this can be done better in anyway even for this README :)
+Please contribute to the project if you think this can be done better in anyway :)
