@@ -28,7 +28,9 @@ npm i sendgrid style-loader url-loader
 
 npm i webpack-dev-server webpack webpack-command
 
-Once the installation is over : run the app
+Once the installation is over : 
+run the app
+
 $ node server.js
 
 Open the web browser to http://localhost:3000/
