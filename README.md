@@ -7,7 +7,7 @@
 ![screenshot 207](https://user-images.githubusercontent.com/36718564/43487070-79cb993c-94e3-11e8-826f-f98a0f5ba9d1.png)
 
 
-Car pooling app for BootCamp Collegues using simple React Webpack Babel Starter Kit
+Car pool app for BootCamp Collegues using simple React Webpack Babel Starter Kit
 
 APP - Open the web browser to https://mysterious-badlands-42742.herokuapp.com/
 
