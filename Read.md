@@ -79,4 +79,4 @@ Open the web browser to http://localhost:3000/
 
 
 
-Please contribute to the project if you think this can be done better in anyway :)
+Please contribute to the project to make it better in anyway :)
