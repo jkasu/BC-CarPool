@@ -5,7 +5,7 @@ BC-Go CarPool
 
 Car pooling app for BootCamp Collegues using simple React Webpack Babel Starter Kit
 
-APP - Open the web browser to http://carpool.herokuapp.com
+APP - Open the web browser to https://mysterious-badlands-42742.herokuapp.com/
 
 This is a simple React, Webpack and Babel application.
 
