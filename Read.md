@@ -1,8 +1,18 @@
+
+
+BC-Go CarPool
+Car pooling app for BootCamp Collegues using simple React Webpack Babel Starter Kit
+
+APP - Open the web browser to http://carpool.herokuapp.com
+
+This is a simple React, Webpack and Babel application.
+
 Copy the git link. 
 
-npm install
+To run the app
+Install dependencies
 
-Install given below :
+npm install
 
 npm i babel-core babel-loader body-parser bootstrap bootstrap-timepicker cookie-parser css-loader date-utils 
 
@@ -20,3 +30,7 @@ npm i webpack-dev-server webpack webpack-command
 
 Once the installation is over : run the app
 $ node server.js
+
+Open the web browser to http://localhost:3000/
+
+Please contribute to the project if you think this can be done better in anyway even for this README :)
