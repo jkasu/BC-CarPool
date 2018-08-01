@@ -51,7 +51,7 @@ module.exports = {
 			clientSecret  : '0NaHD3Oyp1Xak9CRihsLBJSo',
 			callbackURL : 'https://mysterious-badlands-42742.herokuapp.com/'
 			//callbackURL   : 'https://thola.herokuapp.com/auth/google/callback'
-	        //callbackURL   : 'https://thola.herokuapp.com/auth/google/callback'
+	       
 	    }
 	}
 

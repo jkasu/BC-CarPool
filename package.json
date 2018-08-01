@@ -2,7 +2,7 @@
   "name": "bc-carpool",
   "version": "0.1.0",
   "private": true,
-  "main": "index.js",
+  "main": "index.jsx",
   "dependencies": {
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.5",
