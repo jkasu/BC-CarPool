@@ -49,8 +49,8 @@ module.exports = {
 		googleAuth : {
 			clientID      : '652660183776-3flm1st7t9c0bu0epktro3eruv472kte.apps.googleusercontent.com',
 			clientSecret  : '0NaHD3Oyp1Xak9CRihsLBJSo',
-			callbackURL : 'https://mysterious-badlands-42742.herokuapp.com/'
-			//callbackURL   : 'https://thola.herokuapp.com/auth/google/callback'
+			//callbackURL : 'https://mysterious-badlands-42742.herokuapp.com/'
+			callbackURL   : 'https://thola.herokuapp.com/auth/google/callback'
 	       
 	    }
 	}
