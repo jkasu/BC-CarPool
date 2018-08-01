@@ -13,8 +13,8 @@ module.exports = {
 				issuer : 'passport-saml'			}
 		},
 		googleAuth : {
-	        clientID      : '652660183776-3flm1st7t9c0bu0epktro3eruv472kte.apps.googleusercontent.com',
-	        clientSecret  : '0NaHD3Oyp1Xak9CRihsLBJSo',
+	        clientID      : '552667241370-ok8al3kvov66dmikjpg3c5v36u44onti.apps.googleusercontent.com',
+	        clientSecret  : 'cOk1hmg6uiCLzEt22MRnbQ6Z',
 	        callbackURL   : 'http://localhost:3000/auth/google/callback'
 	    }
 	},

@@ -90,7 +90,7 @@ var Map = React.createClass({
 
 	componentDidMount: function(){
 		var component = this;
-		var twBlrOffice = new google.maps.LatLng(12.928716, 77.628971);
+		var twBlrOffice = new google.maps.LatLng(35.791538, -78.781120);
 		var	mapOptions = {
 				center: twBlrOffice,
 				zoom: 11
